@@ -1,4 +1,4 @@
-# Pivotal to Google Spread Sheet
+# Pivotal evaluation
 
 ### This is code that get data from [Pivotal Tracker](http://pivotaltracker.com/) and write in Google Sprtead Sheet by PHP. Procedure is below.
 1. clone this directory to your local environment
